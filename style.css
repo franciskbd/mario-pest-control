@@ -1,0 +1,61 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://i.ytimg.com/vi/l5IHIMH2Sa8/maxresdefault.jpg");
+}
+
+header {
+  height: 150px;
+  width: 100%;
+  background-color:green ;
+  text-align: center;
+  z-index: 1;
+}
+
+.goombas {
+  position: ;
+  height: 500px;
+  width: 20%;
+  background-color:rgba(142, 149, 160, 0.5);
+  border-radius: 30px;
+}
+.bobs {
+  position: ;
+  height: 500px;
+  width: 20%;
+  background-color:rgba(163, 179, 206, 0.5);
+  border-radius: 30px;
+}
+
+.cheepcheeps {
+  position: ;
+  height: 500px;
+  width: 20%;
+  background-color:rgba(81, 80, 80, 0.5);
+  border-radius: 30px;
+}
+
+.col{
+  float: left;
+  width: 30%;
+  text-align: center;
+  padding: 0 50px 10px;
+  margin: 0 15px;
+}
+
+/*.total{
+  text-align: center;
+}*/
+
+.dtotal{
+  width: 20%;
+  height: 20px;
+  align-self: center;
+}
